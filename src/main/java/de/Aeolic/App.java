@@ -1,9 +1,7 @@
 package de.Aeolic;
 
-/**
- * Hello world!
- *
- */
+//Testkommentar
+ 
 
 import java.util.*;
 public class App 
