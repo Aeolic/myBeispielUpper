@@ -18,18 +18,6 @@
 
 <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-jar-plugin</artifactId>
-  
-
-
-
-
-
-
- 
-
-
-
-
 <configuration>
           <archive>
             <manifest>
@@ -59,12 +47,6 @@
 
     </plugins>
     </reporting>
-
-
-
-
-
-
 
   <dependencies>
     <dependency>
