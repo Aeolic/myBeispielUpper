@@ -12,6 +12,7 @@ public class App
 	 */
     public static void main( String[] args )
     {
+	@SuppressWarnings("resource")
 	Scanner sc = new Scanner(System.in);
 	System.out.println("Gib etwas ein: ");
 	String eingabe = sc.next();
